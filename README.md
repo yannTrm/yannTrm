@@ -29,6 +29,6 @@ This project aims to develop an object recognition model using Convolutional Neu
 
 - 📧 Email: yannterrom@hotmail.fr
 - 🌐 Website: [coming_soon.com](https://www.yourwebsite.com)
-- 💼 LinkedIn: [LinkedIn]([https://www.linkedin.com/in/your-name](https://www.linkedin.com/in/yann-terrom-04654220a/))
+- 💼 LinkedIn: [LinkedIn]([https://www.linkedin.com/in/your-name](https://www.linkedin.com/in/yann-terrom-04654220a/)
 
 Feel free to reach out to me to discuss projects, collaborations, or just to chat about AI and computer science topics!
