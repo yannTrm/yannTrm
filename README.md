@@ -18,11 +18,11 @@ I am a student at an engineering school in Paris, pursuing a double degree at Pa
 
 ## My Projects
 
-### Project 1: Object Recognition using CNN
+### Project 1: Crypto-currencie : bot x AI
 
 ![Project 1](img/crypto.png)
 
-This project aims to develop an object recognition model using Convolutional Neural Networks (CNN). The model is trained on a large dataset and can classify different categories of objects with high accuracy.
+This project aims to develop an automated trading system coupled with Artificial Intelligence (AI). The trading bot will be designed to analyze financial market data, identify trends, and autonomously execute buy and sell decisions.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
