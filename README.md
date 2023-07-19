@@ -20,7 +20,7 @@ I am a student at an engineering school in Paris, pursuing a double degree at Pa
 
 ### Project 1: Object Recognition using CNN
 
-![Project 1](https://example.com/path/to/capture1.png)
+![Project 1](img/crypto.png)
 
 This project aims to develop an object recognition model using Convolutional Neural Networks (CNN). The model is trained on a large dataset and can classify different categories of objects with high accuracy.
 
