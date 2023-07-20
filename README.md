@@ -16,7 +16,7 @@ I am a student at an engineering school in Paris, pursuing a double degree at Pa
 - Dev GNU/linux, Windows, MacOS
 - Git / GitHub
 
-## My Projects
+## My Projects (thanks midjourney for the images :) !!)
 
 ### Project 1: Crypto-currencie : bot x AI
 
