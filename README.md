@@ -24,6 +24,8 @@ I am a student at an engineering school in Paris, pursuing a double degree at Pa
 
 This project aims to develop an automated trading system coupled with Artificial Intelligence (AI). The trading bot will be designed to analyze financial market data, identify trends, and autonomously execute buy and sell decisions. This project is mainly developped in Python, using binance API for the bot (real time data).
 
+----------
+
 ### Project 2: AI-based Check Recognition and Image Segmentation
 
 ![Project 2](img/check.png)
