@@ -32,6 +32,8 @@ This project aims to develop an automated trading system coupled with Artificial
 
 Introducing the Check Recognition Project: this AI-based solution efficiently recognizes and processes checks, extracting vital details like payee, amount, and date. Leveraging ROI image segmentation, I achieve high accuracy by isolating critical areas. Simplifying check processing, my project is poised to benefit businesses and individuals alike.
 
+----------
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
