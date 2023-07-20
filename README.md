@@ -26,7 +26,7 @@ This project aims to develop an automated trading system coupled with Artificial
 
 ### Project 1: Crypto-currencie : bot x AI
 
-![Project 2](img/crypto.png)
+![Project 2](img/check.png)
 
 Introducing the Check Recognition Project: this AI-based solution efficiently recognizes and processes checks, extracting vital details like payee, amount, and date. Leveraging ROI image segmentation, I achieve high accuracy by isolating critical areas. Simplifying check processing, my project is poised to benefit businesses and individuals alike.
 
