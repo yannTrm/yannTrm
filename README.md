@@ -13,7 +13,7 @@ I am a student at an engineering school in Paris, pursuing a double degree at Pa
 - Python (All AI libraries)
 - Web development (HTML, CSS, SCSS, JS, PHP, C#, SQL, API...)
 - C, C++, C#, Java
-- Dev GNU UNIX, Windows, MacOS
+- Dev GNU/linux, Windows, MacOS
 - Git / GitHub
 
 ## My Projects
