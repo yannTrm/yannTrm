@@ -10,15 +10,15 @@ I am a student at an engineering school in Paris, pursuing a double degree at Pa
 
 ## My Skills
 
-- Python (All AI libraries)
-- Web development (HTML, CSS, SCSS, JS, PHP, C#, SQL, API...)
-- C, C++, C#, Java
-- Dev GNU/linux, Windows, MacOS
-- Git / GitHub
+- Python (All AI libraries) 🐍
+- Web development (HTML, CSS, SCSS, JS, PHP, C#, SQL, API...) 💻
+- C, C++, C#, Java  📱
+- Dev GNU/linux, Windows, MacOS ➿
+- Git / GitHub 📲
 
 ## My Projects (thanks midjourney for the images :) !!)
 
-### Project 1: Crypto-currencie : bot x AI
+### Project 1: Crypto-currencie : bot x AI 💵
 
 ![Project 1](img/crypto.png)
 
@@ -26,7 +26,7 @@ This project aims to develop an automated trading system coupled with Artificial
 
 ----------
 
-### Project 2: AI-based Check Recognition and Image Segmentation
+### Project 2: AI-based Check Recognition and Image Segmentation 💵
 
 ![Project 2](img/check.png)
 
@@ -34,7 +34,7 @@ Introducing the Check Recognition Project: this AI-based solution efficiently re
 
 ----------
 
-### Project 3: AI-based retail prediction
+### Project 3: AI-based retail prediction 🏪
 
 ![Project 2](img/retail.png)
 
