@@ -34,6 +34,14 @@ Introducing the Check Recognition Project: this AI-based solution efficiently re
 
 ----------
 
+### Project 3: AI-based retail prediction
+
+![Project 2](img/retail.png)
+
+TODO
+
+----------
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
