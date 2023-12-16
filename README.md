@@ -107,6 +107,11 @@ TODO
     <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="pytorch" width="40" height="40" />
     </a>
+    <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-official.svg" alt="pytorch" width="40" height="40" />
+    </a>
+
+
 </p>
 
 
