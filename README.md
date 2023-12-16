@@ -113,6 +113,9 @@ TODO
     <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="pytorch" width="40" height="40" />
     </a>
+    <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="pytorch" width="40" height="40" />
+    </a>
 
 
 
