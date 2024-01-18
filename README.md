@@ -123,7 +123,4 @@ TODO
 </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yannTrm&show_icons=true&theme=synthwave&locale=en" alt="yannTrm" /></p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yannTrm&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
