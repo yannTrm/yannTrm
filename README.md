@@ -48,11 +48,28 @@ Embark on a journey into the realm of 3D face recognition with this innovative p
 
 ----------
 
-### Project 3: AI-based retail prediction 🏪
+### Project 3: VR Tower of Hanoi Game 🕹️
 
-![Project 2](img/retail.png)
+![Project 3](img/vr.png)
 
-TODO
+Immerse yourself in the world of Virtual Reality with this captivating project – a VR Tower of Hanoi Game. Leveraging cutting-edge technologies including React, Three.js, Node.js, and web development languages, I am bringing the classic Tower of Hanoi puzzle to life in the virtual realm.
+
+#### Key Features:
+
+- **Virtual Reality Experience:** Immerse players in a captivating VR environment using Oculus technology.
+- **React and Three.js Integration:** Harness the power of React for the frontend and Three.js for stunning 3D graphics.
+- **Node.js Backend:** Implement a robust backend powered by Node.js for seamless communication and game logic.
+- **Web Technologies:** Utilize HTML, CSS, and other web languages to create an intuitive and immersive gaming interface.
+
+#### Gameplay:
+
+Players will engage in the classic Tower of Hanoi puzzle but in a mesmerizing VR setting. Navigate through the virtual space, solve the puzzle, and experience the thrill of success as the towers align.
+
+#### Technologies Used:
+
+- Frontend: React, Three.js, HTML, CSS
+- Backend: Node.js
+- VR Technology: Oculus
 
 ----------
 
