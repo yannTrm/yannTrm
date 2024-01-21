@@ -26,11 +26,25 @@ This project aims to develop an automated trading system coupled with Artificial
 
 ----------
 
-### Project 2: AI-based Check Recognition and Image Segmentation 💵
+### Project 2: 3D Face Recognition using View-based Descriptors 🌐
 
-![Project 2](img/check.png)
+![Project 2](img/3d_face_recognition.png)
 
-Introducing the Check Recognition Project: this AI-based solution efficiently recognizes and processes checks, extracting vital details like payee, amount, and date. Leveraging ROI image segmentation, I achieve high accuracy by isolating critical areas. Simplifying check processing, my project is poised to benefit businesses and individuals alike.
+Embark on a journey into the realm of 3D face recognition with this innovative project. Leveraging view-based descriptors, latent vectors, and covariance matrices, I aim to extract crucial information from 3D facial models. The goal is to develop a robust 3D face recognition system that goes beyond traditional methods.
+
+#### Key Objectives:
+
+- Utilize advanced view-based descriptors for comprehensive feature extraction.
+- Explore latent vectors and covariance matrices to capture intricate facial details.
+- Implement state-of-the-art techniques in 3D face recognition using Python and relevant libraries.
+- Evaluate the system's performance with diverse 3D facial datasets.
+
+#### Technologies Used:
+
+- Python (NumPy, scikit-learn, trimesh)
+- 3D Modeling Tools (Unity3D, Blender, Threejs)
+- Machine Learning Libraries (TensorFlow, PyTorch)
+- Data Visualization (Matplotlib, Seaborn)
 
 ----------
 
