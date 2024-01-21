@@ -28,7 +28,7 @@ This project aims to develop an automated trading system coupled with Artificial
 
 ### Project 2: 3D Face Recognition using View-based Descriptors 🌐
 
-![Project 2](img/3d_face_recognition.png)
+![Project 2](img/face.png)
 
 Embark on a journey into the realm of 3D face recognition with this innovative project. Leveraging view-based descriptors, latent vectors, and covariance matrices, I aim to extract crucial information from 3D facial models. The goal is to develop a robust 3D face recognition system that goes beyond traditional methods.
 
