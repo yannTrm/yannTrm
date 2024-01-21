@@ -14,7 +14,7 @@ I am a student at an engineering school in Paris, pursuing a double degree at Pa
 - Web development (HTML, CSS, SCSS, JS, PHP, C#, SQL, API...) 💻
 - C, C++, C#, Java  📱
 - Dev GNU/linux, Windows, MacOS ➿
-- Git / GitHub 📲
+- Artificial Intelligence / Machine Vision 📲
 
 ## My Projects 
 
