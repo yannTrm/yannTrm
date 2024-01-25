@@ -149,6 +149,13 @@ Players will engage in the classic Tower of Hanoi puzzle but in a mesmerizing VR
     </a>
 
 
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=yanntrm&size_weight=0.5&count_weight=0.5&show_icons=true&theme=dracula&locale=en&layout=compact" alt="yanntrm" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yanntrm&show_icons=true&theme=synthwave&locale=en" alt="yanntrm" /></p>
+
+
+
+
 
 
 </p>
