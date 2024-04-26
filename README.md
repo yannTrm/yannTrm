@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a student at an engineering school in Paris, pursuing a double degree at Paris-Saclay University, x ESME Sudria, specializing in Master's in Artificial Intelligence. I am passionate about AI, machine learning, and software development, and I am always eager to explore new exciting projects.
+I am a recent graduate from Paris-Saclay University and ESME Sudria, where I flourished in the field of Artificial Intelligence, particularly focusing on Computer Vision. My journey doesn't end with my formal education; fueled by curiosity, I am constantly seeking opportunities to expand my knowledge. Every day, I delve into AI research to deepen my understanding and stay at the forefront of advancements in the field.
 
 - 🔭 Currently, I'm working on projects related to deep learning and crypto-currencies.
 - 🌱 I'm continually learning new technologies and deepening my knowledge in AI and programming.
