@@ -10,7 +10,7 @@ I am a recent graduate from Paris-Saclay University and ESME Sudria, where I flo
 
 ## My Skills
 
-- Python (All AI libraries) 🐍
+- Python (PyTorch, TensorFlow, scikit-learn, NumPy, pandas, and more) 🐍
 - Web development (HTML, CSS, SCSS, JS, PHP, C#, SQL, API...) 💻
 - C, C++, C#, Java  📱
 - Dev GNU/linux, Windows, MacOS ➿
